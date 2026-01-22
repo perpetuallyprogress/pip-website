@@ -4,8 +4,8 @@ export const SITE: Site = {
   title: 'Perpetually in Progress',
   description:
     'astro-erudite is a opinionated, unstyled blogging template—built with Astro, Tailwind, and shadcn/ui.',
-  href: 'https://astro-erudite.vercel.app',
-  author: 'jktrn',
+  href: 'https://your-url.vercel.app',
+  author: 'perpetuallyprogress',
   locale: 'en-US',
   featuredPostCount: 100,
   postsPerPage: 300,
@@ -24,15 +24,11 @@ export const NAV_LINKS: SocialLink[] = [
 
 export const SOCIAL_LINKS: SocialLink[] = [
   {
-    href: 'https://github.com/jktrn',
+    href: 'https://github.com/perpetuallyprogress',
     label: 'GitHub',
   },
   {
-    href: 'https://twitter.com/enscry',
-    label: 'Twitter',
-  },
-  {
-    href: 'mailto:jason@enscribe.dev',
+    href: 'mailto:perpetuallyprogress@gmail.com',
     label: 'Email',
   },
   {
